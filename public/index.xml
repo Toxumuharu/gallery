@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Photography on Tomoharu Kawata</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Photography on Tomoharu Kawata</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>tomoharu.kawata@gmail.com (Tomoharu Kawata)</managingEditor>
+    <webMaster>tomoharu.kawata@gmail.com (Tomoharu Kawata)</webMaster>
+    <copyright>© Tomoharu</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animals</title>
+      <link>//localhost:1313/animal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/animal/</guid><media:content url="//localhost:1313/animal/20191215_061451000_iOS_hu2362285992855126238.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/animal/20191215_061451000_iOS_hu2362285992855126238.jpg&quot; /&gt;
+          &lt;p&gt;Life I&#39;ve met :)&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mountains and Valleys</title>
+      <link>//localhost:1313/mountainsandvalleys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/mountainsandvalleys/</guid><media:content url="//localhost:1313/mountainsandvalleys/20170120_134409000_iOS%20%281%29_hu10702375736127230302.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/mountainsandvalleys/20170120_134409000_iOS%20%281%29_hu10702375736127230302.jpg&quot; /&gt;
+          &lt;p&gt;Adventures thrill yet pose dangers.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Night views</title>
+      <link>//localhost:1313/nightview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/nightview/</guid><media:content url="//localhost:1313/nightview/20161230_234240000_iOS_hu17180634682784034966.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nightview/20161230_234240000_iOS_hu17180634682784034966.jpg&quot; /&gt;
+          &lt;p&gt;Dazzling light.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Portrait</title>
+      <link>//localhost:1313/portrait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/portrait/</guid><media:content url="//localhost:1313/portrait/20170120_175443000_iOS_hu5787528275658486288.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/portrait/20170120_175443000_iOS_hu5787528275658486288.jpg&quot; /&gt;
+          &lt;p&gt;Appreciation for the all relationships.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Sea scapes</title>
+      <link>//localhost:1313/seascapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/seascapes/</guid><media:content url="//localhost:1313/seascapes/20210306_075100000_iOS%20%281%29_hu799916332138735369.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/seascapes/20210306_075100000_iOS%20%281%29_hu799916332138735369.jpg&quot; /&gt;
+          &lt;p&gt;The same wave will come never ever.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Seasons</title>
+      <link>//localhost:1313/seasons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/seasons/</guid><media:content url="//localhost:1313/seasons/20210206_050800000_iOS_hu1771409415963898882.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/seasons/20210206_050800000_iOS_hu1771409415963898882.jpg&quot; /&gt;
+          &lt;p&gt;Same place, but has different face.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Snaps</title>
+      <link>//localhost:1313/snap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/snap/</guid><media:content url="//localhost:1313/snap/20170117_155255000_iOS_hu6749111789270068857.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/snap/20170117_155255000_iOS_hu6749111789270068857.jpg&quot; /&gt;
+          &lt;p&gt;A moment.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Stars</title>
+      <link>//localhost:1313/stars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/stars/</guid><media:content url="//localhost:1313/stars/20210710_154715000_iOS%20%281%29_hu2374556217164203018.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/stars/20210710_154715000_iOS%20%281%29_hu2374556217164203018.jpg&quot; /&gt;
+          &lt;p&gt;Capturing stars makes my heart tremble.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Waterfalls</title>
+      <link>//localhost:1313/waterfalls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tomoharu.kawata@gmail.com (Tomoharu Kawata)</author>
+      <guid>//localhost:1313/waterfalls/</guid><media:content url="//localhost:1313/waterfalls/20200818_103923750_iOS%20%281%29_hu5294337470494420019.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/waterfalls/20200818_103923750_iOS%20%281%29_hu5294337470494420019.jpg&quot; /&gt;
+          &lt;p&gt;The thing that makes me serious.&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
