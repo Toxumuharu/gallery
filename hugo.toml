@@ -10,7 +10,7 @@ title = "Tomoharu Kawata"
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  title = "Tomoharu's Gallery"
   [params.author]
     email = "tomoharu.kawata@gmail.com"
     name = "Tomoharu Kawata"
